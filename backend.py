@@ -1,4 +1,5 @@
 def xulidata():
+    print("toi ko ua th wei li")
     pass
 
 
@@ -9,3 +10,4 @@ def tinhtoan():
 def ketnoi():
     # hungpham3112
     print("da ket noi thanh cong")
+
