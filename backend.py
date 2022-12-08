@@ -11,3 +11,5 @@ def ketnoi():
     # hungpham3112
     print("da ket noi thanh cong")
 
+def xuatdata():
+    pass
