@@ -4,6 +4,7 @@ def display():
 
 
 def button():
+    print("Nguyet da sua!")
     pass
 
 
