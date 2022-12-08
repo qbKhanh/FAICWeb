@@ -3,7 +3,7 @@ def xulidata():
 
 
 def tinhtoan():
-    pass
+    print("da tinh toan thanh cong")
 
 
 def ketnoi():
