@@ -1,5 +1,6 @@
 def display():
-    pass
+    print("FAIC test")
+    # by Tuan
 
 
 def button():
