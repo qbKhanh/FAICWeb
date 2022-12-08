@@ -7,4 +7,5 @@ def tinhtoan():
 
 
 def ketnoi():
-    pass
+    # hungpham3112
+    print("da ket noi thanh cong")
