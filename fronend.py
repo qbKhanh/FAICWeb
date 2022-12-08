@@ -1,10 +1,10 @@
 def display():
-    print("anh nude pham hung")
+    pass
 
 
 def button():
-    print("choc a pham hung")
+    pass
 
 
 def inputInfo():
-    print("bohungvidai")
+    pass
